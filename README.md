@@ -19,6 +19,10 @@ Computer Engineering student from Türkiye, currently on an Erasmus+ exchange at
 ## Writing
 
 - [I built a Kubernetes security lab on three mini PCs and tested every control](https://medium.com/@mmirac.aral/i-built-a-kubernetes-security-lab-on-three-mini-pcs-and-tested-every-control-880165566133)
+- [Foothold: a CTF command reference that fills itself in](https://medium.com/@mmirac.aral/foothold-a-ctf-command-reference-that-fills-itself-in-b7caef8d9675)
+- [HTTP request smuggling: PortSwigger labs 1–10](https://medium.com/@mmirac.aral/http-request-smuggling-complete-portswigger-web-security-academy-labs-1-10-178841002c28)
+- [TryHackMe Buffer Overflow Prep, step by step](https://medium.com/@mmirac.aral/tryhackme-buffer-overflow-prep-step-by-step-stack-based-exploitation-5d7d7d231bfd)
+- [Advent of Cyber 2025 side quest: Hoppers Origin](https://medium.com/@mmirac.aral/tryhackme-advent-of-cyber-2025-hoppers-origin-complete-walkthrough-a5f7e39de8f7)
 
 ## Right now
 
