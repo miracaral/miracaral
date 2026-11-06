@@ -6,13 +6,13 @@ Computer Engineering student from Türkiye, currently on an Erasmus+ exchange at
 
 - **Offensive security.** Top 3% on TryHackMe, plus a lot of evenings on Hack The Box and Proving Grounds. I'm preparing for the OSCP.
 - **Homelab.** Three mini PCs and a switch running a Kubernetes cluster that I harden and test control by control, each with a before/after result. It's where I try out network policies, runtime enforcement and anything I'd rather not try on a real network.
-- **Code.** Mostly Python, C/C++ and Java, with some Go for networking tools.
+- **Code.** Mostly Python, C/C++ and Java (Micronaut on Oracle), with some Go for networking tools.
 
 ## Projects
 
 - [homelab-k8s-security](https://github.com/miracaral/homelab-k8s-security): securing my Kubernetes homelab, from Pod Security and network policies to watching traffic with Hubble.
 - [openssl-pki-homelab](https://github.com/miracaral/openssl-pki-homelab): a multi-tier PKI built with OpenSSL, plus an mTLS demo that turns away revoked certificates.
-- [Foothold](https://github.com/miracaral/foothold): a single-page pentest and CTF companion that runs locally. Pick a phase, a port or a scan type and it gives you the commands, already filled in with your target.
+- [Foothold](https://github.com/miracaral/foothold): a pentest and CTF companion that fills your target into every command. A vanilla JS front end that works offline, plus an optional Java 17 / Micronaut API on Oracle Database, tested in CI against a real Oracle container and deployed to my Kubernetes homelab.
 - [go-network-tools](https://github.com/miracaral/go-network-tools): port scanners, an echo server and a port forwarder, written in Go to understand TCP properly.
 - [software-engineering-fundamentals](https://github.com/miracaral/software-engineering-fundamentals): my study projects in C, C++, Java, Scala and Python, organised by topic.
 
