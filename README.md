@@ -6,7 +6,7 @@ Computer Engineering student from Türkiye, currently on an Erasmus+ exchange at
 
 - **Offensive security.** Top 3% on TryHackMe, plus a lot of evenings on Hack The Box and Proving Grounds. I'm preparing for the OSCP.
 - **Homelab.** Three mini PCs and a switch running a Kubernetes cluster that I harden and test control by control, each with a before/after result. It's where I try out network policies, runtime enforcement and anything I'd rather not try on a real network.
-- **Code.** Mostly Python, C/C++ and Java (Micronaut on Oracle), with some Go for networking tools.
+- **Code.** Mostly Python, C/C++ and Java, with some Go for networking tools.
 
 ## Projects
 
