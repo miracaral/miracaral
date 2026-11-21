@@ -27,6 +27,7 @@ Computer Engineering student from Türkiye, currently on an Erasmus+ exchange at
 
 ## Right now
 
+- Vaigil: an open-source security layer for AI agents that checks every tool call an agent makes.
 - Studying for the OSCP.
 - Version 2 of k8s-agent-sandbox: a Claude Code runner, an ops agent you can ask about the cluster, and agents that review each other's work.
 
