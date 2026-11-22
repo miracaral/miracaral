@@ -10,6 +10,7 @@ Computer Engineering student from Türkiye, currently on an Erasmus+ exchange at
 
 ## Projects
 
+- [Vaigil](https://github.com/miracaral/Vaigil): a policy layer in Go that sits between an AI agent and its tools and checks every tool call: allow, ask me, or deny. 24 prompt-injection and data-leak attacks are tested against it, and 21 are stopped; the other 3 stay on the scoreboard as known gaps. With a local Qwen3 model, a dummy key leaked in 15 of 20 runs without it and in 0 of 20 with it.
 - [homelab-k8s-security](https://github.com/miracaral/homelab-k8s-security): securing my Kubernetes homelab control by control, then attacking it from inside: 7 of 7 container-breakout pods refused, a path from a pod to my home network found and closed, and a security audit before publishing.
 - [k8s-agent-sandbox](https://github.com/miracaral/k8s-agent-sandbox): runs an AI coding agent (Gemini CLI) as short-lived Kubernetes pods where a misbehaving agent can do as little as possible, controlled by one CLI with a kill switch and a daily limit. Tested against prompt injection hidden in a repository.
 - [openssl-pki-homelab](https://github.com/miracaral/openssl-pki-homelab): a multi-tier PKI built with OpenSSL, plus an mTLS demo that turns away revoked certificates.
@@ -19,8 +20,11 @@ Computer Engineering student from Türkiye, currently on an Erasmus+ exchange at
 
 ## Writing
 
+- [I built a guard for AI agent tool calls, then kept breaking it](https://medium.com/@mmirac.aral/i-built-a-guard-for-ai-agent-tool-calls-then-kept-breaking-it-11963e6dd314)
 - [I built a Kubernetes security lab on three mini PCs and tested every control](https://medium.com/@mmirac.aral/i-built-a-kubernetes-security-lab-on-three-mini-pcs-and-tested-every-control-880165566133)
 - [Foothold: a CTF command reference that fills itself in](https://medium.com/@mmirac.aral/foothold-a-ctf-command-reference-that-fills-itself-in-b7caef8d9675)
+- [Building a PKI with OpenSSL, part 1: RSA key pair](https://medium.com/@mmirac.aral/building-a-pki-with-openssl-part-1-rsa-key-pair-447a53ac9892)
+- [Building a PKI with OpenSSL, part 2: root CA, chains, signing and revocation](https://medium.com/@mmirac.aral/building-a-pki-with-openssl-part-2-root-ca-chains-signing-and-revocation-74bb2dc13a81)
 - [HTTP request smuggling: PortSwigger labs 1–10](https://medium.com/@mmirac.aral/http-request-smuggling-complete-portswigger-web-security-academy-labs-1-10-178841002c28)
 - [TryHackMe Buffer Overflow Prep, step by step](https://medium.com/@mmirac.aral/tryhackme-buffer-overflow-prep-step-by-step-stack-based-exploitation-5d7d7d231bfd)
 - [Advent of Cyber 2025 side quest: Hoppers Origin](https://medium.com/@mmirac.aral/tryhackme-advent-of-cyber-2025-hoppers-origin-complete-walkthrough-a5f7e39de8f7)
