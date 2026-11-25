@@ -39,4 +39,4 @@ Computer Engineering student from Türkiye, currently on an Erasmus+ exchange at
 
 [Website](https://miracaral.com) · [LinkedIn](https://www.linkedin.com/in/mira%C3%A7-aral-848520332/) · [Medium](https://medium.com/@mmirac.aral) · [TryHackMe](https://tryhackme.com/p/mmirac.aral) · mmirac.aral@gmail.com
 
-Turkish (native), English (C2).
+Turkish (native), English (fluent).
